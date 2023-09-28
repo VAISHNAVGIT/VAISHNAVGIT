@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VAISHNAVGIT
-- 👀 I’m interested in web development, arduino programming, app development, etc....
-- 🌱 I’m currently learning +2
+- 👀 I’m interested in web development, Arduino programming, app development, etc...
+- 🌱 I’m currently an Engineering Student
 - 📫 How to reach me v9010546@gmail.com
 - 
